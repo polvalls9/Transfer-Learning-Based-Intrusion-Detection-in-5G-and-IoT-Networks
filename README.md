@@ -20,4 +20,10 @@ Transfer learning will improve the accuracy and precision of unknown cyber-attac
 
 # How to run the code?
 
-
+Hay diferentes partes de código que se pueden utilizar:
+ 
+- [BCNN-B.ipynb](https://link-url-here.org)
+- [NONTL - CNN-TL.ipynb](https://link-url-here.org)
+- [TL - CNN-TL.ipynb](https://link-url-here.org)
+- [Transfer Learning.ipynb](https://link-url-here.org)
+- [UNSW-NB15_Generate_Basic_Train_Test_Test+.ipynb](https://link-url-here.org)
