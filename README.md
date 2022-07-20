@@ -17,3 +17,7 @@ Transfer learning will improve the accuracy and precision of unknown cyber-attac
 - Achieve high accuracies in scarce datasets. 
 - Detect well-know IoT networks attacks: Distributed Denial of Service (DDoS), DoS, Keylogging, Data Theft, etc. attacks.
 - Be able to operate in systems with limited computing capacity.
+
+# How to run the code?
+
+
