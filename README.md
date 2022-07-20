@@ -6,7 +6,7 @@
 
 If you want to run the code to see the result of Transfer Leraning you must use the file ([code](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/TL%20-%20CNN-TL.ipynb)). Download the zip file of the project and run the file marked in the link above.
 
-The following is a summary of the content in each part of the code:
+The following is a summary of the content in the different code files:
 
 - [BCNN-B.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/CNN-B.ipynb): Here the pre-trained model is generated with the BoT-IoT Dataset.
 - [NONTL - CNN-TL.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/NONTL%20-%20CNN-TL.ipynb): In this code you can see the behaviour and results obtained, with graphs and figures, using a model without Transfer Learning.
