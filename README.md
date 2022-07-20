@@ -20,8 +20,10 @@ Transfer learning will improve the accuracy and precision of unknown cyber-attac
 
 # How to run the code?
 
-There are different parts of code that can be used:
- 
+If you want to run the code to see the result of Transfer Leraning you must use the file ([Code Here](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/TL%20-%20CNN-TL.ipynb)).
+
+The following is a summary of the content in each part of the code:
+
 - [BCNN-B.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/CNN-B.ipynb): Here the pre-trained model is generated with the BoT-IoT Dataset.
 - [NONTL - CNN-TL.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/NONTL%20-%20CNN-TL.ipynb): In this code you can see the behaviour and results obtained, with graphs and figures, using a model without Transfer Learning.
 - [TL - CNN-TL.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/TL%20-%20CNN-TL.ipynb): In this code you can see the behaviour and results obtained, with graphs and figures, using a model with Transfer Learning (CNN-TL).
