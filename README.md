@@ -1,5 +1,19 @@
-# Transfer Learning Based Intrusion Detection in 5G and IoT Networks
+  # Transfer Learning Based Intrusion Detection in 5G and IoT Networks
+
  Development of a transfer learning system for the detection of cyber-attacks in 5G and IoT networks. Transfer learning will improve the accuracy and precision of cyber-attacks detection in 5G /IoT networks with limited computing capability and datasets with scarce labeled data.
+
+ # How to run the code?
+
+If you want to run the code to see the result of Transfer Leraning you must use the file ([code](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/TL%20-%20CNN-TL.ipynb)). Download the zip file of the project and run the file marked in the link above.
+
+The following is a summary of the content in each part of the code:
+
+- [BCNN-B.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/CNN-B.ipynb): Here the pre-trained model is generated with the BoT-IoT Dataset.
+- [NONTL - CNN-TL.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/NONTL%20-%20CNN-TL.ipynb): In this code you can see the behaviour and results obtained, with graphs and figures, using a model without Transfer Learning.
+- [TL - CNN-TL.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/TL%20-%20CNN-TL.ipynb): In this code you can see the behaviour and results obtained, with graphs and figures, using a model with Transfer Learning (CNN-TL).
+- [Transfer Learning.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/Transfer%20Learning.ipynb): In this code you can see the behaviour and results obtained, with graphs and figures, comparing the model with and without Transfer Learning in the UNSW-NB15-Test dataset. 
+- [UNSW-NB15_Generate_Basic_Train_Test_Test+.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/UNSW-NB15_Generate_Basic_Train_Test_Test%2B.ipynb): In this code the different subdatasets of UNSW-NB15 are generated.
+
 
 # 1. **Introduction**
    ## 1.1 **Statement of purpose**
@@ -18,14 +32,3 @@ Transfer learning will improve the accuracy and precision of unknown cyber-attac
 - Detect well-know IoT networks attacks: Distributed Denial of Service (DDoS), DoS, Keylogging, Data Theft, etc. attacks.
 - Be able to operate in systems with limited computing capacity.
 
-# How to run the code?
-
-If you want to run the code to see the result of Transfer Leraning you must use the file ([Code Here](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/TL%20-%20CNN-TL.ipynb)).
-
-The following is a summary of the content in each part of the code:
-
-- [BCNN-B.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/CNN-B.ipynb): Here the pre-trained model is generated with the BoT-IoT Dataset.
-- [NONTL - CNN-TL.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/NONTL%20-%20CNN-TL.ipynb): In this code you can see the behaviour and results obtained, with graphs and figures, using a model without Transfer Learning.
-- [TL - CNN-TL.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/TL%20-%20CNN-TL.ipynb): In this code you can see the behaviour and results obtained, with graphs and figures, using a model with Transfer Learning (CNN-TL).
-- [Transfer Learning.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/Transfer%20Learning.ipynb): In this code you can see the behaviour and results obtained, with graphs and figures, comparing the model with and without Transfer Learning in the UNSW-NB15-Test dataset. 
-- [UNSW-NB15_Generate_Basic_Train_Test_Test+.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/UNSW-NB15_Generate_Basic_Train_Test_Test%2B.ipynb): In this code the different subdatasets of UNSW-NB15 are generated.
