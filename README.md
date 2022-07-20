@@ -23,7 +23,7 @@ Transfer learning will improve the accuracy and precision of unknown cyber-attac
 Hay diferentes partes de código que se pueden utilizar:
  
 - [BCNN-B.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/CNN-B.ipynb)
-- [NONTL - CNN-TL.ipynb](https://link-url-here.org](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/NONTL%20-%20CNN-TL.ipynb)
-- [TL - CNN-TL.ipynb](https://link-url-here.org](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/TL%20-%20CNN-TL.ipynb)
-- [Transfer Learning.ipynb](https://link-url-here.org](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/Transfer%20Learning.ipynb)
-- [UNSW-NB15_Generate_Basic_Train_Test_Test+.ipynb](https://link-url-here.org](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/UNSW-NB15_Generate_Basic_Train_Test_Test%2B.ipynb)
+- [NONTL - CNN-TL.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/NONTL%20-%20CNN-TL.ipynb)
+- [TL - CNN-TL.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/TL%20-%20CNN-TL.ipynb)
+- [Transfer Learning.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/Transfer%20Learning.ipynb)
+- [UNSW-NB15_Generate_Basic_Train_Test_Test+.ipynb](https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks/blob/main/codes/UNSW-NB15_Generate_Basic_Train_Test_Test%2B.ipynb)
